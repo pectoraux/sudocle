@@ -4905,10 +4905,10 @@ object.values@^1.1.5:
     define-properties "^1.1.3"
     es-abstract "^1.19.1"
 
-odiff-bin@^2.5.0:
-  version "2.5.0"
-  resolved "https://registry.yarnpkg.com/odiff-bin/-/odiff-bin-2.5.0.tgz#b8b551e5a3b48d2b7fe1e8042650fe82c50d7f79"
-  integrity sha512-wquvVqZltr0w3IFWTjiWloNjlIDaMq0aWoWLStV9GHWRjio1Pznh1UkWkVWp8UukT/TiHoFKrRC47viZVOnmsA==
+odiff-bin@^2.6.1:
+  version "2.6.1"
+  resolved "https://registry.yarnpkg.com/odiff-bin/-/odiff-bin-2.6.1.tgz#891dcfdd076438821a169292be2ecdf3ddcef5ee"
+  integrity sha512-SeI3ehAqjQUMlUkGjvIFGKoHZIO3zG1N1wMRhf7ojM7Vb+HcyB2RKSSCu7kbvYVtSdZADEBSJ7nvP/d7iBLivA==
 
 omggif@^1.0.10, omggif@^1.0.9:
   version "1.0.10"
