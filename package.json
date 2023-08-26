@@ -19,7 +19,7 @@
     "@fontsource/roboto": "^4.5.3",
     "classnames": "^2.3.1",
     "color": "^4.2.1",
-    "favicons": "^6.2.2",
+    "favicons": "^7.1.4",
     "image-webpack-loader": "^8.1.0",
     "immer": "^9.0.12",
     "lodash": "^4.17.20",
